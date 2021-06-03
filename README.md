@@ -2,7 +2,7 @@
 
 INTERVIEW QUESTIONS:
 
-This interview is due on Monday, 26th April 2021 at 10am.
+This interview Task is due on Tuesday, 8th June 2021 at 10am.
 
 Below is a link to where you generate an open API:
 http://www.omdbapi.com/apikey.aspx
@@ -28,6 +28,6 @@ https://github.com/Cafa-engineering/Tech-Interview.git,
 Fork ,Clone, Create a branch with your name and push your code to your branch.
 **Do not push on the master branch**.
 
-This interview task is due on Thursday, 6th May 2021 at 10am. east african time.
+This interview task is due on Tuesday, 8th June 2021 at 10am. east african time.
 
 
