@@ -1,0 +1,72 @@
+body{
+  background-image: linear-gradient(to bottom right,rgba(80,6,127,0), rgba(209,38,0,1));
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-attachment: fixed;
+
+}
+.border-custom{
+  background-color: #d12600;
+  color: aliceblue;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.search-bar{
+  position: relative;
+}
+.load, .card{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.card-head{
+  background-color: inherit;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.banner{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.card-main,.card-foot{
+  background-color: inherit;
+  border: 0;
+}
+.nav-color{
+  color: #d12600;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+.text-foot{
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 600;
+  font-size: 20px; 
+  text-transform: uppercase;
+  text-align: center;
+}
+.addrs{
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+.detail{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 500;
+  color:#000000; 
+}
+.svgLoader {
+  animation: spin 0.5s linear infinite;
+  margin: auto;
+}
+.divLoader {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
